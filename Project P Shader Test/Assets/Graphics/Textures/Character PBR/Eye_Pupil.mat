@@ -124,7 +124,7 @@ Material:
     - _AmbientStreght: 0.25
     - _AmbientStrenght: 0.25
     - _Blend: 0
-    - _BumpScale: 1
+    - _BumpScale: 2
     - _ClearCoatMask: 0
     - _ClearCoatSmoothness: 0
     - _Cull: 0
