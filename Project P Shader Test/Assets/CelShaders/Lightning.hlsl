@@ -1,3 +1,7 @@
+#pragma multi_compile _ _MAIN_LIGHT_SHADOWS
+#pragma multi_compile _ _MAIN_LIGHT_SHADOWS_CASCADE
+#pragma multi_compile _ _SHADOWS_SOFT
+
 void MainLight_float(float3 WorldPos, out float3 Direction, out float3 Color,
     out float DistanceAtten, out float ShadowAtten) {
 
